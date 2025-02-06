@@ -1,0 +1,14 @@
+table {
+    .mat-mdc-header-row {
+        background-color: rgba(10, 13, 29, 0.822);
+        color: #fff;
+    }
+    .mat-mdc-row, .mat-mdc-header-row{
+        font-size: 1.3rem;
+        height: 3.4rem;
+    }
+
+    .mat-mdc-row:hover {
+        background-color: #0001;
+    }
+}

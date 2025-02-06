@@ -6,7 +6,7 @@ import { OrdersComponent } from './pages/orders/orders.component';
 import { ClientsComponent } from './pages/clients/clients.component';
 
 export const routes: Routes = [
-    { path: "", component: HomeComponent},
+    { path: "", component: FreightCarriersComponent},
     { path: "products", component: ProductsComponent},
     { path: "orders", component: OrdersComponent},
     { path: "clients", component: ClientsComponent},
