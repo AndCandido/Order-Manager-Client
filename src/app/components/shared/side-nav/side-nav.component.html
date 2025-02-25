@@ -1,0 +1,9 @@
+<section>
+    <nav>
+        <ul>
+            <li *ngFor="let link of links">
+                <a routerLink={{ link.link }} routerLinkActive="active"> {{ link.label }}</a>
+            </li>
+        </ul>
+    </nav>
+</section>
