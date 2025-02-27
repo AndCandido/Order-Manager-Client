@@ -1,6 +1,6 @@
 <main>
-    <app-side-nav [links]="sideNavLinks"></app-side-nav>
+    <app-side-nav id="side-nav" [links]="sideNavLinks"></app-side-nav>
     <section id="sect-resource-list">
-        <app-freight-carrier-table />
+      <router-outlet></router-outlet>
     </section>
 </main>

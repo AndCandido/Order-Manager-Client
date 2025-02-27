@@ -1,0 +1,28 @@
+<section id="register-freight-carrier-container">
+  <h3>Cadastrar Empresa de Transporte</h3>
+
+  <form [formGroup]="freightCarrier">
+    <div class="form-inputs-container">
+      <div class="input-container">
+        <label for="inp-name">Nome</label>
+        <input id="inp-name" type="text" placeholder="Max Transportes" formControlName="name">
+      </div>
+      <div class="input-container">
+        <label for="inp-cnpj">Cnpj</label>
+        <input id="inp-cnpj" type="text" placeholder="00.111.222/3333-44" formControlName="cnpj">
+      </div>
+      <div class="input-container">
+        <label for="inp-email">Email</label>
+        <input id="inp-email" type="text" placeholder="max.transportes@email.com" formControlName="email">
+      </div>
+      <div class="input-container">
+        <label for="inp-phone">Telefone</label>
+        <input id="inp-phone" type="text" placeholder="(00) 11122-3344" formControlName="phone">
+      </div>
+    </div>
+
+    <button class="submit-button" mat-flat-button style="font-size: 2rem;" (click)="onSubmit()">Enviar</button>
+  </form>
+
+</section>
+

@@ -1,0 +1,12 @@
+main {
+  display: flex;
+}
+
+#side-nav {
+  min-width: 150px;
+  flex-basis: 10vw;
+}
+
+#sect-resource-list {
+  flex: 1;
+}

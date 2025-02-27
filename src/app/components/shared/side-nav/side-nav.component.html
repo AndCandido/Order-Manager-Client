@@ -1,9 +1,13 @@
-<section>
+<section id="side-nav">
     <nav>
-        <ul>
-            <li *ngFor="let link of links">
-                <a routerLink={{ link.link }} routerLinkActive="active"> {{ link.label }}</a>
+        <ul class="link-list">
+          @for (link of links; track link.link) {
+            <li class="link-item">
+              <a id="link" routerLink={{link.link}}>{{ link.label }}</a>
             </li>
+          } @empty {
+            <span>Error ao carregar links</span>
+          }
         </ul>
     </nav>
 </section>

@@ -1,0 +1,95 @@
+{
+  "freigh-carriers": [
+    {
+      "name": "Total Express",
+      "cnpj": "3289173.3290813-00001",
+      "phone": "(93) 98112-3223",
+      "createdAt": "(93) 98112-3223",
+      "id": "6e07"
+    },
+    {
+      "name": "123Lion",
+      "cnpj": "3289173.3290813-00001",
+      "phone": "(93) 98112-3223",
+      "createdAt": "(93) 98112-3223",
+      "id": "abe2"
+    },
+    {
+      "name": "Mercado Livre",
+      "cnpj": "3289173.3290813-00001",
+      "phone": "(93) 98112-3223",
+      "createdAt": "(93) 98112-3223",
+      "id": "5735"
+    },
+    {
+      "id": null,
+      "name": "Max Transportes",
+      "cnpj": "00.111.222/3333-44",
+      "phone": "(00) 11122-3344",
+      "email": "max.transportes@email.com"
+    },
+    {
+      "id": null,
+      "name": "Max Transportes",
+      "cnpj": "00.111.222/3333-44",
+      "phone": "(00) 11122-3344",
+      "email": "max.transportes@email.com"
+    },
+    {
+      "id": null,
+      "name": "Max Transportes",
+      "cnpj": "00.111.222/3333-44",
+      "phone": "(00) 11122-3344",
+      "email": "max.transportes@email.com"
+    },
+    {
+      "id": null,
+      "name": "Max Transportes",
+      "cnpj": "00.111.222/3333-44",
+      "phone": "(00) 11122-3344",
+      "email": "max.transportes@email.com"
+    },
+    {
+      "id": null,
+      "name": "Max Transportes",
+      "cnpj": "00.111.222/3333-44",
+      "phone": "(00) 11122-3344",
+      "email": "max.transportes@email.com"
+    },
+    {
+      "id": null,
+      "name": "Max Transportes",
+      "cnpj": "00.111.222/3333-44",
+      "phone": "(00) 11122-3344",
+      "email": "max.transportes@email.com"
+    },
+    {
+      "id": null,
+      "name": "Max Transportes",
+      "cnpj": "00.111.222/3333-44",
+      "phone": "(00) 11122-3344",
+      "email": "max.transportes@email.com"
+    },
+    {
+      "id": null,
+      "name": "Max Transportes",
+      "cnpj": "00.111.222/3333-44",
+      "phone": "(00) 11122-3344",
+      "email": "max.transportes@email.com"
+    },
+    {
+      "id": null,
+      "name": "Max Transportes",
+      "cnpj": "00.111.222/3333-44",
+      "phone": "(00) 11122-3344",
+      "email": "max.transportes@email"
+    },
+    {
+      "id": null,
+      "name": "Max Transportes",
+      "cnpj": "00.111.222/3333-44",
+      "phone": "(00) 11122-3344",
+      "email": "max.transporte"
+    }
+  ]
+}
